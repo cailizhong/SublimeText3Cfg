@@ -1,0 +1,32 @@
+Alignment
+All Autocomplete
+AutoFileName
+BracketHighlighter
+C++11
+Colorcoder
+ColorPicker
+Colorsublime
+Colorsublime - Themes
+ConvertToUTF8
+DocBlockr
+Emmet
+FileDiffs
+Function Name Display
+Lua Dev
+Modific
+Package Control
+PackageResourceViewer
+PyV8
+SublimeAStyleFormatter
+SublimeEnhancedUtilitiesSet
+SublimeLinter
+SublimeREPL
+SyncedSideBar
+TabsExtra
+Terminal
+Theme - Centurion
+Theme - Soda
+Theme - Spacegray
+TortoiseSVN
+Trimmer
+Web Inspector
